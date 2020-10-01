@@ -3,6 +3,7 @@
 # Python TicTacToe game with Tk GUI and minimax AI
 # Author: Maurits van der Schee <maurits@vdschee.nl>
 
+#Tkinter is GUI application used to display game screen
 from Tkinter import Tk, Button
 from tkFont import Font
 from copy import deepcopy
